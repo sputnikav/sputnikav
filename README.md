@@ -1,6 +1,6 @@
 ### Hi there! I'm Thanh Luong 👋
 
-A little thing about me.. Well, I am a Machine Learning practitioner that is seeking for the challenging problems in different data domains from Image, Audio, NLP to .. hm, time series data (financial, I am still learning).
+A little thing about me.. I am a Machine Learning practitioner who is seeking for the challenging problems in different data domains from Image, Audio, NLP to .. time series data (like financial, I am still learning).
 
 - 🔭 I’m currently working at [Axon](https://www.axon.com/company) as a Research Engineer.
 - 👨‍🎓 I’m currently learning Catboost and Realized Volatility Prediction 
